@@ -57,7 +57,9 @@ body {
 
 }
 
-.navbar li a:hover,
+.navbar li a:hover{
+    color: aqua;
+}
 .navbar li a.active {
     
     color:blue;
